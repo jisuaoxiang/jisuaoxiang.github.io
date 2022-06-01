@@ -1,3 +1,3 @@
 #AriaNG
 
-for myself
+for myself to use aria2
